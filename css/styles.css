@@ -1,0 +1,73 @@
+a:hover{
+  background-color: white;
+
+}
+.download-button{
+  background-color: red;
+}
+.download-button:hover{
+  background-color: orange;
+
+}
+#title{
+  background-color: #FF4C68;
+  text-align: center;
+}
+.row{
+  margin: 3.5rem 4.5rem;
+  padding: 2.5rem 2.5rem;
+}
+.download-button2{
+  margin-top: 2.5rem;
+  margin: 2.5rem 1rem 0;
+}
+.iphone{
+  width: 60%;
+  transform: rotate(25deg);
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+  font-weight: 800;
+  font-size: 3.5rem;
+  color: #FFF;
+  line-height: 1.5;
+}
+.navbar{
+  padding: 3.5rem 3.5rem 0 3.5rem ;
+}
+.nav-item{
+  margin: 0 20px;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+
+
+}
+.navbar-brand:hover{
+  background-color: #FF4C68;
+  color: white;
+}
+.icon{
+  height: 50px;
+  width: 50px;
+  color: red;
+}
+
+h3{
+  font-weight: bold;
+}
+
+#features{
+  text-align: center;
+}
+
+#press{
+  text-align: center;
+  padding-bottom: 50px;
+}
